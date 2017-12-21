@@ -8,7 +8,7 @@ import javax.swing.JFrame;
 import javax.swing.JOptionPane;
 
 /*
- * Name: Tony Misic     Student#: 500759917 
+ * Name: Tony Misic
  */
 
 
