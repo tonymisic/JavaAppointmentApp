@@ -1,7 +1,7 @@
 import java.util.Comparator;
 
 /*
- * Name: Tony Misic     Student#: 500759917 
+ * Name: Tony Misic 
  */
 
 
