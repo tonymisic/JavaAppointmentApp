@@ -4,7 +4,7 @@ import java.util.GregorianCalendar;
 import java.text.SimpleDateFormat;
 
 /*
- * Name: Tony Misic     Student#: 500759917 
+ * Name: Tony Misic
  */
 
 /*
