@@ -1,7 +1,7 @@
 import javax.swing.JFrame;
 
 /*
- * Name: Tony Misic     Student#: 500759917 
+ * Name: Tony Misic
  */
 public class AppointmentViewer
 {  
