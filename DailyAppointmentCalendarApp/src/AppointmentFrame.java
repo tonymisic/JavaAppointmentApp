@@ -27,7 +27,7 @@ import java.util.Stack;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 /*
- * Name: Tony Misic     Student#: 500759917 
+ * Name: Tony Misic 
  */
 
 /*
